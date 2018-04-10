@@ -1,0 +1,5 @@
+{
+    "MONGO":"mongodb://localhost:27017/vaastu",
+    "PORT": 3001,
+    "SECRET": "D3V3L0PM3NT"
+}
